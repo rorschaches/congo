@@ -14,6 +14,8 @@ Detailed installation instructions can be found below. Instructions for [updatin
 
 ## Installation
 
+
+
 These instructions will get you up and running using Hugo and Congo from a completely blank state. Most of the dependencies mentioned in this guide can be installed using the package manager of choice for your platform.
 
 ### Install Hugo
